@@ -1,6 +1,6 @@
 Study projects | Pet projects
 --- | ---
-[Yatube](https://github.com/yoninjago/hw05_final) | [API для MinIO](https://github.com/yoninjago/fastapi_minio)
+[Продуктовый помощник](https://github.com/yoninjago/foodgram-project-react) | [API для MinIO](https://github.com/yoninjago/fastapi_minio)
 [API для Yatube](https://github.com/yoninjago/api_final_yatube) | 
 [Бот проверки домашки](https://github.com/yoninjago/homework_bot) | 
 
