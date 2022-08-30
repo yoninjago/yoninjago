@@ -1,6 +1,6 @@
-Study projects | Pet projects
---- | ---
-[Продуктовый помощник](https://github.com/yoninjago/foodgram-project-react) | [API для MinIO](https://github.com/yoninjago/fastapi_minio)
+Study projects | Pet projects | Scripts
+--- | --- | ---
+[Продуктовый помощник](https://github.com/yoninjago/foodgram-project-react) | [API для MinIO](https://github.com/yoninjago/fastapi_minio) | [Сбор данных с коммутатора](https://github.com/yoninjago/collect-switch-info)
 [API для Yatube](https://github.com/yoninjago/api_final_yatube) | 
 [Бот проверки домашки](https://github.com/yoninjago/homework_bot) | 
 
