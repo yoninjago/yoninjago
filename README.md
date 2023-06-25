@@ -1,7 +1,7 @@
 Study projects | Pet projects | Scripts
 --- | --- | ---
 [Продуктовый помощник](https://github.com/yoninjago/foodgram-project-react) | [Screenshot bot](https://github.com/yoninjago/sitescreenshot_bot) | [Сбор данных с коммутатора](https://github.com/yoninjago/collect-switch-info)
-[API для Yatube](https://github.com/yoninjago/api_final_yatube) | [API для MinIO](https://github.com/yoninjago/fastapi_minio)
+[API для Yatube](https://github.com/yoninjago/api_final_yatube) | [API для MinIO](https://github.com/yoninjago/fastapi_minio) | [Скрипт для сбора данных о USB устройствах](https://github.com/yoninjago/script_for_ePalt4m_SOAR)
 [Бот проверки домашки](https://github.com/yoninjago/homework_bot) | 
 
 ## Courses
